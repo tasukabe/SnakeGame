@@ -1,0 +1,25 @@
+
+
+ $most-!!! Cheak where is the problem to update snake cells//! Solved :-)
+
+ if sorted == true                                         //! Solved :-)
+  -  impliment Options                                     //! Solved :-)
+                - Add window collision                     //! Solved :-)
+                - Add cell to the snake                    //! Solved :-)
+                - Add a Welcome Screen                     //! Solved :-)
+                - Add a Dead Screen                        //! Solved :-)
+
+
+ $Do: 
+  - make sprite conected each other                                             //! Solved :-)
+  - Build a system which will manage sides based on [i-1] and [i+1] velocity.   //! Solved :-)
+
+  ~ Debug everything.
+        ~~~ISSUE~~~
+        |->when it call AddBody(void)                                           //!done:-)
+        |->Startup bodypart.sprite arrangement problem.
+
+
+      $ToDo: Recicale everything. 
+       |->make a well wisher.
+       |->in summery, make a gread protocal.
