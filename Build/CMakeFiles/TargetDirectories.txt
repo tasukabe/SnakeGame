@@ -1,3 +1,0 @@
-/home/tasukabe/Codes/cpp/Games/Snake Game/Build/CMakeFiles/SnakeGame.dir
-/home/tasukabe/Codes/cpp/Games/Snake Game/Build/CMakeFiles/edit_cache.dir
-/home/tasukabe/Codes/cpp/Games/Snake Game/Build/CMakeFiles/rebuild_cache.dir

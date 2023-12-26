@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/SnakeGame.dir/Main.cpp.o CMakeFiles/SnakeGame.dir/Source/Game.cpp.o CMakeFiles/SnakeGame.dir/Source/Food.cpp.o CMakeFiles/SnakeGame.dir/Source/Snake.cpp.o -o SnakeGame  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1 
