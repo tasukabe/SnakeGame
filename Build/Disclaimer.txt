@@ -1,0 +1,5 @@
+This Build SnakeGame execu is only for linux based.
+If you are trying to run it in other OS you must Bulid the project essential build first.
+Then you would able to compile and run the Game.
+
+If you face any issue with building the game, don't forget to cheak the "Setup.txt" to get a quick help.
